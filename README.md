@@ -1,2 +1,0 @@
-# Shattered
-Projet semestriel
